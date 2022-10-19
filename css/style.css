@@ -432,7 +432,10 @@ h6,
 font-family: "livingstoneregular";
 }
 
+.logo-cmim{
+    margin-top: 40px;
+}
 
-#col-lg-3.col-md-6 {
-    width: 700px;
+.logo-maitre{
+    margin-left: 20px;
 }
