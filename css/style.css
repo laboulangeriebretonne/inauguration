@@ -439,3 +439,7 @@ font-family: "livingstoneregular";
 .logo-maitre{
     margin-left: 20px;
 }
+
+.owl-carousel{
+    pointer-events: none;
+}
